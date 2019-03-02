@@ -1,0 +1,15 @@
+/Users/ianfrancisroldan/Projects/PrimeNumbersQuiz/PrimeNumbersQuiz/bin/PrimeNumbersQuiz.dll
+/Users/ianfrancisroldan/Projects/PrimeNumbersQuiz/PrimeNumbersQuiz/bin/PrimeNumbersQuiz.pdb
+/Users/ianfrancisroldan/Projects/PrimeNumbersQuiz/PrimeNumbersQuiz/bin/Newtonsoft.Json.dll
+/Users/ianfrancisroldan/Projects/PrimeNumbersQuiz/PrimeNumbersQuiz/bin/System.Net.Http.Formatting.dll
+/Users/ianfrancisroldan/Projects/PrimeNumbersQuiz/PrimeNumbersQuiz/bin/System.Web.Http.dll
+/Users/ianfrancisroldan/Projects/PrimeNumbersQuiz/PrimeNumbersQuiz/bin/System.Web.Http.WebHost.dll
+/Users/ianfrancisroldan/Projects/PrimeNumbersQuiz/PrimeNumbersQuiz/bin/Newtonsoft.Json.xml
+/Users/ianfrancisroldan/Projects/PrimeNumbersQuiz/PrimeNumbersQuiz/bin/System.Net.Http.Formatting.xml
+/Users/ianfrancisroldan/Projects/PrimeNumbersQuiz/PrimeNumbersQuiz/bin/System.Web.Http.xml
+/Users/ianfrancisroldan/Projects/PrimeNumbersQuiz/PrimeNumbersQuiz/bin/System.Web.Http.WebHost.xml
+/Users/ianfrancisroldan/Projects/PrimeNumbersQuiz/PrimeNumbersQuiz/obj/Debug/PrimeNumbersQuiz.csprojAssemblyReference.cache
+/Users/ianfrancisroldan/Projects/PrimeNumbersQuiz/PrimeNumbersQuiz/obj/Debug/PrimeNumbersQuiz.csproj.CoreCompileInputs.cache
+/Users/ianfrancisroldan/Projects/PrimeNumbersQuiz/PrimeNumbersQuiz/obj/Debug/PrimeNumbersQuiz.csproj.CopyComplete
+/Users/ianfrancisroldan/Projects/PrimeNumbersQuiz/PrimeNumbersQuiz/obj/Debug/PrimeNumbersQuiz.dll
+/Users/ianfrancisroldan/Projects/PrimeNumbersQuiz/PrimeNumbersQuiz/obj/Debug/PrimeNumbersQuiz.pdb
